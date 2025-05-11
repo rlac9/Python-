@@ -5,4 +5,4 @@ greeting = ['hi', 'hello','whatsup'] # list definition
 # +
 print(numbers + greeting) # : [1,12,123,'hi','hello','whatsup']
 # *
-print(number * 3) # :[1,12,123,1,12,123,1,12,123]
+print(numbers * 3) # :[1,12,123,1,12,123,1,12,123]
